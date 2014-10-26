@@ -51,9 +51,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
+heroTitle: "DevFest <typeout> 2015"
 eventDate: "January, 2015"
-typeoutTextValues: '"", "Season", "Cadiz", "Spain", "USA"'
+typeoutTextValues: '"Cadiz", "Material", "Android L", "Design", "Development"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
