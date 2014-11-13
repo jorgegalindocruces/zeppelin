@@ -6,8 +6,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "Material Fest 2015"
-email: "jorgegalindocruces@gmail.com"
-description: "The first event in Spain with focus in Material and Android L"
+email: "materialfest@gmail.com"
+description: "El primer evento enfocado en diseño Material y desarrollo en Android L"
 baseurl: "/zeppelin"
 url: "http://jorgegalindocruces.github.io"
 permalink: "/blog/:title"
