@@ -39,11 +39,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Calendario"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
+ - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -52,7 +52,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "DevFest <typeout> 2015"
-eventDate: "January, 2015"
+eventDate: "31 De Enero, 2015"
 typeoutTextValues: '"Cadiz", "Material", "Android L", "Design", "Development"'
 typeoutFallback: "Season"
 heroButtons:
@@ -69,22 +69,22 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "12", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "16", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "350", specialCharacter: "+", info: "asistentes", detail: "de todos sitios"}
+ - {count: "12", specialCharacter: "+", info: "horas", detail: "de diversión y conocimiento"}
+ - {count: "16", specialCharacter: "+", info: "speakers", detail: "de compañias internacionales"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "Diseño, Desarrollo y mesas redondas"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Ultimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "Echa un ojo a nuestro cartel"
 
 # Location Block
-locationBlockTitle: "Location"
+locationBlockTitle: "Localizción"
 eventLocationName: "Aulario La Bomba. Cádiz"
 eventLocationLink: "https://plus.google.com/114799348666220805362/about?gl=es&hl=es"
 eventStreetAddress: "Aulario La Bomba. Cádiz"
@@ -115,9 +115,9 @@ twitterHashTag: "materialFest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-organizersTitle: "Organizers"
+organizersTitle: "Organizadores"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Quieres ser nuestro sponsor?¿"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -130,13 +130,13 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
+  name: "Material Attedee"
   price: "15"
   priceCurrency: "Euros"
   ticketsNumber: "15"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Todo el dinero se reinvertirá en cómida y confort"]
   validFrom: "2014-12-01T10:00"
   validThrough: "2015-01-15T23:59"
 
@@ -155,7 +155,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:materialfest@gmail.com", text: "materialfest@gmail.com"}
  -
   title: "FAQ"
   links:
