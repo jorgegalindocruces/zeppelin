@@ -1,10 +1,12 @@
 - 
-  group: "Main organizer"
+  group: "Organizadores principales"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Cádiz", description: "GDG Cádiz - Una comunidad de desarrollo y conocimiento de tecnologías", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Cádiz Developers", description: "Un grupo de Facebook (si si, de Facebook) de difusión de conocimiento colavorativo", link: "http://lviv.gdg.org.ua", imageUrl: "GDG_Cadiz.png"}
+    - {name: "The Singulars ", description: "Excusas perfectas para hablar de diseño.", link: "https://twitter.com/thesingulars_es", imageUrl: "logo-thesingulars.gif"}
+
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "GDG Sevilla", description: "GDG Sevilla - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "GDG_Sevilla"}
+    - {name: "Android Sevilla", description: "Grupo de Sevillanos unidos por varias pasiones, la programación, Android y la luz de esta tierra. Escribenos a android.sevilla@googlegroups.com", link: "https://twitter.com/androidsevilla", imageUrl: "gdg-cherkasy.svg"}

@@ -18,14 +18,14 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "GDG Cadiz & The Singulars"
 organizerAlternateName: "Google Developer Group Cádiz & The Singulars"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "jorgegalindocruces@gmail.com"
+organizerDescription: "GDG Cádiz & The Sigulars se unen para ofrecer un evento orientado tanto a diseño como en desarrollo con un foco común. Material"
+organizerEmail: "materialfest@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, material, android-l, devfest, google, programming, android, chrome, developers, Cadiz"
-twitterAccount: "@DevFest"
+metaKeywords: "event, material, android-l, devfest, google, desarrollo, diseño, android, chrome, developers, Cadiz"
+twitterAccount: "@MaterialFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -51,19 +51,19 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "DevFest <typeout> 2015"
+heroTitle: "Material <typeout> 2015"
 eventDate: "31 De Enero, 2015"
-typeoutTextValues: '"Cadiz", "Material", "Android L", "Design", "Development"'
+typeoutTextValues: '"Fest","Cadiz", "Android L", "Design", "Development"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Call For Papers"}
+ - {permalink: "/#tickets", text: "Quiero ir!"}
 
 # About Block
-aboutTitle: "About Material Fest"
+aboutTitle: "Acerca de Material Def Fest"
 aboutBlock:
- - {title: "Design Talks", image: "conference.jpg", text: "All one track focus on digital design" }
- - {title: "Developer Talks", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Diseño", image: "conference.jpg", text: "Un track enfocado a diseño móvil" }
+ - {title: "Desarrollo", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Dinamic events", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
@@ -84,7 +84,7 @@ rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "Echa un ojo a nuestro cartel"
 
 # Location Block
-locationBlockTitle: "Localizción"
+locationBlockTitle: "Localización"
 eventLocationName: "Aulario La Bomba. Cádiz"
 eventLocationLink: "https://plus.google.com/114799348666220805362/about?gl=es&hl=es"
 eventStreetAddress: "Aulario La Bomba. Cádiz"
@@ -117,7 +117,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Quieres ser nuestro sponsor?¿"
+partnersC4sponsorsButton: "¿Te apetece ser nuestro sponsor?"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -126,16 +126,16 @@ subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b052
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
+ticketsTitle: "Lista de precios"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Material Attedee"
+  name: "Material Fest"
   price: "15"
   priceCurrency: "Euros"
   ticketsNumber: "15"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Compralo ahora"
   ticketContentList: ["Todo el dinero se reinvertirá en cómida y confort"]
   validFrom: "2014-12-01T10:00"
   validThrough: "2015-01-15T23:59"
@@ -170,17 +170,17 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "Acerca de nosotros"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
 findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
+findWayDriving: "En coche"
+findWayWalking: "Andando"
+findWayBicycling: "En bicicleta"
+findWayTransit: "En tren"
+findWayFindFlight: "Encuentra un vuelo"
 logisticsMapCenterCoordinates: "36.537189, -6.301627"
 logisticsMapMobileCenterCoordinates: "36.537189, -6.301627"
 
