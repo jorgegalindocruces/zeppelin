@@ -62,9 +62,9 @@ heroButtons:
 # About Block
 aboutTitle: "Acerca de Material Def Fest"
 aboutBlock:
- - {title: "Diseño", image: "conference.jpg", text: "Un track enfocado a diseño móvil" }
- - {title: "Desarrollo", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Dinamic events", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Un track enfocado en diseño digital", image: "conference.jpg", text: "Charlas sobre tipografía, Material Design, iconografía y guías de estilo. Todo enfocado a móvil" }
+ - {title: "Un track enfocado a desarrollo Android", image: "workshop.jpg", text: "Charlas sobre 'frontend en Android', animaciones y programación funcional" }
+ - {title: "Eventos paralelos sobre UX y mesas redondas", image: "hackathon.jpg", text: "Un campeonato de mini ping-pong, mesas redondas y workshops sobre UX" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -72,7 +72,7 @@ statisticBlock:
  - {count: "350", specialCharacter: "+", info: "asistentes", detail: "de todos sitios"}
  - {count: "12", specialCharacter: "+", info: "horas", detail: "de diversión y conocimiento"}
  - {count: "16", specialCharacter: "+", info: "speakers", detail: "de compañias internacionales"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "Diseño, Desarrollo y mesas redondas"}
+ - {count: "3", specialCharacter: "", info: "Tracks", detail: "Diseño, Desarrollo y mesas redondas"}
 
 # Latest News Block
 latestNewsTitle: "Ultimas noticias"
@@ -110,9 +110,9 @@ venueFeatures: ["Located directly in the city center", "Three rooms with a spaci
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "Que esta pasando?"
 twitterHashTag: "materialFest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterFeed: "http://enterwebdesign.es/blog_jgc/tweetledee/searchjson.php?q=Material%20Fest&rt=recent&c=75&cache_interval=300"
 
 # Partners Block
 organizersTitle: "Organizadores"
@@ -127,7 +127,7 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Tickets Block
 ticketsTitle: "Lista de precios"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "La entrada asegurará la participación en cualquiera de los dos tracks y participación en el campeonato de ping pong"
 ticketsOffers:
  -
   name: "Material Fest"
