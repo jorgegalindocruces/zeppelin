@@ -84,18 +84,18 @@
 
 -
   id: 7
-  name: "Fernando"
-  surname: "Cejas"
-  company: "Tuenti"
-  title: "Mobile Software Engineer at Tuenti"
+  name: "Lole"
+  surname: "Roman"
+  company: "Designit, Comando Cran & Yo digo Pio"
+  title: "Diseñador de UI/NUI y de tipos"
 #  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: FernandoCejas.jpg
+  thumbnailUrl: LoleRoman.jpeg
   rockstar: true
   ribbon:
-   - {abbr: "Android", title: "Android L", url: ""}
+   - {abbr: "Diseño", title: "Tipografía", url: ""}
   social:
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "twitter", link: "https://twitter.com/fernando_cejas"}
+    - {name: "twitter", link: "https://twitter.com/josergb"}
 
 -
   id: 8
@@ -111,3 +111,55 @@
   social:
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/lime_cl"}
+
+
+-
+  id: 9
+  name: "Danny"
+  surname: "Saltaren"
+  company: "Kendo Studio"
+  title: "CoFounder and Designer at Kendo Studio"
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: DannySaltaren.jpg
+  rockstar: true
+  ribbon:
+   - {abbr: "Diseño", title: "Material", url: ""}
+  social:
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/dsaltaren"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dannysaltaren"}
+    - {name: "dribbble", link: "https://dribbble.com/dsaltaren"}
+
+
+-
+  id: 10
+  name: "Javi"
+  surname: "Perez"
+#  company: "Kendo Studio"
+  title: "Product designer"
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: javiperez.png
+  rockstar: true
+  ribbon:
+   - {abbr: "Diseño", title: "Material", url: ""}
+  social:
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/dobleperez"}
+    - {name: "dribbble", link: "https://dribbble.com/dobleperez"}
+-
+  id: 11
+  name: "David"
+  surname: "Gonzalez"
+  company: "Novoda"
+  title: "Android Software Craftsman at Novoda"
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: DavidGonzalez.jpg
+  rockstar: true
+  ribbon:
+   - {abbr: "Desarrollo", title: "Android L", url: ""}
+  social:
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/dggonzalez"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/dggonzalez"}
+
+
