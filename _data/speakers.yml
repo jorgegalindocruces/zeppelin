@@ -6,6 +6,9 @@
   title: "Cofounder & Android Expert at Karumi"
 #  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
   thumbnailUrl: JorgeBarroso.jpeg
+
+    ribbon:
+     - {abbr: "Android", title: "Android L", url: ""}
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/101577582921075469776"}
@@ -20,6 +23,8 @@
 #  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
   thumbnailUrl: ManuGamero.png
   rockstar: true
+    ribbon:
+     - {abbr: "Diseño", title: "Material Design", url: ""}
   social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/manugamero"}
@@ -32,8 +37,8 @@
 #  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
   thumbnailUrl: AleMunoz.jpeg
   rockstar: true
-#  ribbon:
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  ribbon:
+   - {abbr: "Diseño", title: "Material Design", url: ""}
 #    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
@@ -48,21 +53,66 @@
   thumbnailUrl: DanielMota.jpeg
   rockstar: true
   ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+   - {abbr: "Diseño", title: "Material Design", url: ""}
   social: 
 #    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "https://twitter.com/icebeat"}
-- 
+-
   id: 5
   name: "Máximo"
   surname: "Gabete"
   company: "Trasteria"
   title: "Diseñador gráfico. Branding, tipografía y naming. Freelance desde Barcelona. También en @trasteria @plfpodcast y @entretiposconf"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
   thumbnailUrl: MaximoGabete.jpeg
   rockstar: true
   ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
+   - {abbr: "Diseño", title: "Material Design", url: ""}
+  social:
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/omixam"}
+
+-
+  id: 6
+  name: "Fernando"
+  surname: "Cejas"
+  company: "SoundCloud"
+  title: "Mobile Software Engineer at SoundCloud"
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: FernandoCejas.jpg
+  rockstar: true
+  ribbon:
+   - {abbr: "Android", title: "Android L", url: ""}
+  social:
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/omixam"}
+
+-
+  id: 7
+  name: "David"
+  surname: "Gonzalez"
+  company: "Novoda"
+  title: "Android Software Craftsman Novoda"
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: DavidGonzalez.jpg
+  rockstar: true
+  ribbon:
+   - {abbr: "Android", title: "Android L", url: ""}
+  social:
+   - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+   - {name: "twitter", link: "https://twitter.com/dggonzalez"}
+
+-
+  id: 8
+  name: "Javier"
+  surname: "Leiva"
+  company: "Bandhook"
+  title: "Android Developer at @plexapp. Developer of Bandhook App"
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: AntonioLeiva.jpeg
+  rockstar: true
+  ribbon:
+   - {abbr: "Android", title: "Android L", url: ""}
+  social:
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/lime_cl"}
