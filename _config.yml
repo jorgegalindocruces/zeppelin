@@ -3,7 +3,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
-
 # Site Settings
 title: "Material Fest 2015"
 email: "materialfest@gmail.com"
