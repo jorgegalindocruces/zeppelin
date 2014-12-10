@@ -3,15 +3,16 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
+
 # Site Settings
 title: "Material Fest 2015"
 email: "materialfest@gmail.com"
 description: "El primer evento enfocado en diseño Material y desarrollo en Android L"
 baseurl: "/zeppelin"
-url: "http://materialfest.com/"
+url: "http://jorgegalindocruces.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "materialfest.com"
+googleAnalyticsSiteUrl: "jorgegalindocruces.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
