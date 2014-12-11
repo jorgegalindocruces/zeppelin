@@ -4,9 +4,9 @@
     - {name: "GDG Cádiz", description: "GDG Cádiz - Una comunidad de desarrollo y conocimiento de tecnologías", link: "https://plus.google.com/112866714526515716260/posts", imageUrl: "logo-gdgCadiz.png"}
     - {name: "The Singulars ", description: "Excusas perfectas para hablar de diseño.", link: "https://twitter.com/thesingulars_es", imageUrl: "logo-thesingulars.gif"}
 
-#-
-#  group: "Co-organizers"
-#  elements:
-#
-#    - {name: "GDG Sevilla", description: "GDG Sevilla - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "GDG_Sevilla"}
-#    - {name: "Android Sevilla", description: "Grupo de Sevillanos unidos por varias pasiones, la programación, Android y la luz de esta tierra. Escribenos a android.sevilla@googlegroups.com", link: "https://twitter.com/androidsevilla", imageUrl: "gdg-cherkasy.svg"}
+-
+  group: "Co-organizers"
+  elements:
+
+    - {name: "GDG Sevilla", description: "GDG Sevilla - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdgsevilla.png"}
+    - {name: "AndroidSevilla", description: "Grupo de Sevillanos unidos por varias pasiones, la programación, Android y la luz de esta tierra. Escribenos a android.sevilla@googlegroups.com", link: "https://twitter.com/androidsevilla", imageUrl: "AndroidSevilla.png"}
