@@ -55,7 +55,7 @@ eventDate: "31 De Enero, 2015"
 typeoutTextValues: '"Fest","Cadiz", "Android L", "Design", "Development"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Call For Papers"}
+ - {link: "https://jorgegalindocruces.typeform.com/to/ADJFdK", text: "Call For Papers"}
  - {permalink: "/#tickets", text: "Quiero ir!"}
 
 # About Block
