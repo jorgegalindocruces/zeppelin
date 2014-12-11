@@ -6,6 +6,11 @@
     - {title: "Desarrollo", color: "#03a9f4"}
     - {title: "Brigde", color: "#e91e63"}
   timeslots:
+      - {
+      	startTime: "09:00",
+      	endTime: "09:45",
+      	sessionIds: [001]
+      }
     - {
     	startTime: "10:00",
     	endTime: "10:45",
@@ -28,9 +33,9 @@
     }
 
     - {
-            startTime: "15:00",
+            startTime: "14:00",
             endTime: "16:00",
-            sessionIds: [307]
+            sessionIds: [002]
     }
 
     - {

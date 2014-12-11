@@ -185,11 +185,11 @@ logisticsMapMobileCenterCoordinates: "36.537189, -6.301627"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Que hay en Cádiz"
+directionDetailsTitle: "¿Que hay en Cádiz?"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Desde el Aeropuerto", information: 'Cádiz tiene aeropuerto cerca... En Jerez! Esta cerquita de Cádiz y puedes venir de multitud de formas... <a href="http://www.aena-aeropuertos.es/csee/Satellite/Aeropuerto-Jerez/en/">Link Aeropuerto</a>.'}
+ - {title: "Transporte público", information: 'Si os digo la verdad... la forma preferible de venir a Cádiz es en tren. Os deja en el centro y esta lleno de confort'}
+ - {title: "Hoteles", information: 'Cádiz es lugar de vacaciones y hay tela de sitios guapetones donde elegir... Aquí os dejamos unos cuantos!'}
 directionDetailsWideCards: 
  -
   title: "Questions?"
@@ -200,8 +200,7 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   - 
+   -
     title: "Registration"
     links:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
