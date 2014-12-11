@@ -20,7 +20,7 @@ organizerAlternateName: "Google Developer Group Cádiz & The Singulars"
 organizerDescription: "GDG Cádiz & The Sigulars se unen para ofrecer un evento orientado tanto a diseño como en desarrollo con un foco común. Material"
 organizerEmail: "materialfest@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "https://plus.google.com/u/1/112866714526515716260/about"
 
 # Head
 metaKeywords: "event, material, android-l, devfest, google, desarrollo, diseño, android, chrome, developers, Cadiz"
@@ -38,15 +38,15 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Calendario"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/logistics/", text: "Logística"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Call For Papers"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Call For Papers"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -86,7 +86,7 @@ rockstarSpeakersButtonText: "Echa un ojo a nuestro cartel"
 locationBlockTitle: "Localización"
 eventLocationName: "Aulario La Bomba. Cádiz"
 eventLocationLink: "https://plus.google.com/114799348666220805362/about?gl=es&hl=es"
-eventStreetAddress: "Aulario La Bomba. Cádiz"
+eventStreetAddress: "Justo al lado de la Caleta"
 eventAddressLocality: "Cádiz"
 eventAddressLocalityRegion: "Andalucía"
 eventPostalCode: "11001"
@@ -105,13 +105,13 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Aulario La Bomba"
-venueFeatures: ["Located directly in the city center", "Three rooms with a spacious patio", "A large auditorium"]
+venueFeatures: ["En el casco antiguo de Cádiz", "Dos salas para los tracks independientes", "Un patio para las actividades y mesas redondas"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Que esta pasando?"
 twitterHashTag: "materialFest"
-twitterFeed: "http://enterwebdesign.es/blog_jgc/tweetledee/searchjson.php?q=Material%20Fest&rt=recent&c=75&cache_interval=300"
+twitterFeed: "http://enterwebdesign.es/blog_jgc/tweetledee/searchjson.php?q=Material"
 
 # Partners Block
 organizersTitle: "Organizadores"
@@ -120,9 +120,9 @@ partnersC4sponsorsButton: "¿Te apetece ser nuestro sponsor?"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Subscribete a nuestra Newsletter"
+subscribeAction: "http://47deg.us6.list-manage.com/subscribe?u=66b615bef6&id=70c8bcf5e6"
+subscribeInfo: "El registro se abrirá en Enero. El numero de entradas es limitado... Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Lista de precios"
@@ -135,21 +135,21 @@ ticketsOffers:
   ticketsNumber: "15"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Compralo ahora"
-  ticketContentList: ["Todo el dinero se reinvertirá en cómida y confort"]
+  ticketContentList: ["Todo el dinero se reinvertirá en comida y confort"]
   validFrom: "2014-12-01T10:00"
   validThrough: "2015-01-15T23:59"
 
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=materialfest", icon: "twitter"}
+# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://plus.google.com/u/1/112866714526515716260/posts", text: "GDG Cádiz"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
@@ -158,10 +158,10 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+#   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Últimas noticias"
 blogCommentsEnabled: true
 discusShortName: "devfestua"
 
@@ -173,8 +173,8 @@ teamBlockTitle: "Acerca de nosotros"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
+findWayTitle: "Te lo ponemos facil! Te decimos hasta como venir!"
+findWayDistance: "Distancia"
 findWayDriving: "En coche"
 findWayWalking: "Andando"
 findWayBicycling: "En bicicleta"
@@ -185,7 +185,7 @@ logisticsMapMobileCenterCoordinates: "36.537189, -6.301627"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Cadiz"
+directionDetailsTitle: "Que hay en Cádiz"
 directionDetailsCards:
  - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
  - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
@@ -238,20 +238,20 @@ prizes:
  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "36.537189, -6.301627"
-hackathonMapCenterCoordinates: "36.537189, -6.301627"
-hackathonMapMobileCenterCoordinates: "36.537189, -6.301627"
+## Hackathon Location Block
+#hackathonLocationBlockTitle: "Location"
+#hackathonLocationName: "Communa"
+#hackathonLocationLink: "http://communa.net.ua/"
+#hackathonStreetAddress: "1 Halytska St"
+#hackathonAddressLocality: "Lviv"
+#hackathonAddressLocalityRegion: "Lvivska"
+#hackathonPostalCode: "79000"
+#hackathonAddressCountry: "Ukraine"
+#hackathonTimeTitle: "Hack through"
+#hackathonStartTime: "2014-10-24T10:00"
+#hackathonDoorTime: "09:00"
+#hackathonEndTime: "2014-10-25T00:00"
+#viewOnMap: "View on Google Maps"
+#hackathonPlaceCoordinates: "36.537189, -6.301627"
+#hackathonMapCenterCoordinates: "36.537189, -6.301627"
+#hackathonMapMobileCenterCoordinates: "36.537189, -6.301627"
