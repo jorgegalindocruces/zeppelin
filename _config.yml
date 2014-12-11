@@ -238,6 +238,7 @@ prizes:
  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
  - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
 
+
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Communa"
