@@ -116,7 +116,7 @@ twitterFeed: "http://enterwebdesign.es/blog_jgc/tweetledee/searchjson.php?q=Mate
 # Partners Block
 organizersTitle: "Organizadores"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "¿Te apetece ser nuestro sponsor?"
+partnersC4sponsorsButton: "¿Te molaría ser nuestro sponsor? ¿Quieres molar de verdad?"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -133,7 +133,7 @@ ticketsOffers:
   price: "15"
   priceCurrency: "Euros"
   ticketsNumber: "15"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://materialfest.ticketforevent.com/"
   buyButtonText: "Compralo ahora"
   ticketContentList: ["Todo el dinero se reinvertirá en comida y confort"]
   validFrom: "2014-12-01T10:00"
