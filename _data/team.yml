@@ -1,60 +1,72 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "lole"
+  surname: "Roman"
+  title: "Master and comander del diseño. Tipografo y culo inquieto por partes iguales"
+  thumbnailUrl: LoleRoman.jpeg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "The Singulars", title: "Excusas de diseño"}
   social: 
     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "twitter", link: "https://twitter.com/josergb"}
+    - {name: "site", link: "http://www.bynewroman.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Pablo"
+  surname: "Sacaluga"
+  title: "Forma junto con Lole el duo dinamico del diseño y la dirección creativa del evento. Corganizador de The singular"
+  thumbnailUrl: PabloSacaluga.jpeg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "The Singulars", title: "https://twitter.com/psacaluga"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+#    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "twitter", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Alex"
+  surname: "Ahumada"
+  title: "Design + Motion + Direction Co-fundador de Colophon y vocal de la Asociación Andaluza de Diseñadores"
+  thumbnailUrl: AlexAhumada.jpeg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+  ribbon:
+    - {abbr: "Producción digital", title: "Mr Teaser"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+#    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "https://twitter.com/projectspminute"}
+    - {name: "site", link: "http://www.projectsperminute.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Jorge"
+  surname: "Galindo"
+  title: "Cofundador de 47 Degrees Spain y liante por derecho"
+  thumbnailUrl: jorgegalindo.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JorgeGalindoCruces"}
+    - {name: "twitter", link: "https://twitter.com/jorge__GAlindo"}
+#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+
+-
+  id: 5
+  name: "Teresa"
+  surname: "Suarez"
+  title: "Periodista especializada en comunicación corporativa. Teresa lleva la dirección en la comunicación del evento"
+  thumbnailUrl: TeresaSuarez.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+TeresaSuárezMartín"}
+    - {name: "twitter", link: "https://twitter.com/teresuarezm"}
+#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+-
+  id: 6
+  name: "Francisco"
+  surname: "Perez"
+  title: "Scala Developer en 47 Degrees y fan de la colaboración y los eventos"
+  thumbnailUrl: FranPerez.jpeg
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "twitter", link: "https://twitter.com/FPerezP"}
+    - {name: "site", link: "http://blog.fperezp.com/"}
