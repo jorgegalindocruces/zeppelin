@@ -5,25 +5,25 @@
   title: "Master and comander del diseño. Tipografo y culo inquieto por partes iguales"
   thumbnailUrl: LoleRoman.jpeg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "The Singulars", title: "Excusas de diseño"}
-  social: 
+  social:
     - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
     - {name: "twitter", link: "https://twitter.com/josergb"}
     - {name: "site", link: "http://www.bynewroman.com/"}
-- 
+-
   id: 1
   name: "Pablo"
   surname: "Sacaluga"
   title: "Forma junto con Lole el duo dinamico del diseño y la dirección creativa del evento. Corganizador de The singular"
   thumbnailUrl: PabloSacaluga.jpeg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "The Singulars", title: "https://twitter.com/psacaluga"}
-  social: 
+  social:
 #    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
     - {name: "twitter", link: "https://github.com/ozasadnyy"}
-- 
+-
   id: 2
   name: "Alex"
   surname: "Ahumada"
@@ -32,18 +32,18 @@
   team: true
   ribbon:
     - {abbr: "Producción digital", title: "Mr Teaser"}
-  social: 
+  social:
 #    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
     - {name: "twitter", link: "https://twitter.com/projectspminute"}
     - {name: "site", link: "http://www.projectsperminute.com/"}
-- 
+-
   id: 4
   name: "Jorge"
   surname: "Galindo"
   title: "Cofundador de 47 Degrees Spain y liante por derecho"
   thumbnailUrl: jorgegalindo.jpg
   team: true
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+JorgeGalindoCruces"}
     - {name: "twitter", link: "https://twitter.com/jorge__GAlindo"}
 #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
@@ -67,6 +67,16 @@
   title: "Scala Developer en 47 Degrees y fan de la colaboración y los eventos"
   thumbnailUrl: FranPerez.jpeg
   subTeam: true
-  social: 
+  social:
     - {name: "twitter", link: "https://twitter.com/FPerezP"}
     - {name: "site", link: "http://blog.fperezp.com/"}
+-
+  id: 6
+  name: "Francisco"
+  surname: "Bueno"
+  title: "Angular Developer y Sr. Lobo del Material Fest"
+  thumbnailUrl: FranciscoBueno.jpg
+  subTeam: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/Fran__Good"}
+    - {name: "site", link: "http://www.franciscobueno.com/"}
