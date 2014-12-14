@@ -48,8 +48,6 @@
     - {name: "twitter", link: "https://twitter.com/jorge__GAlindo"}
 #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
-
--
   id: 5
   name: "Teresa"
   surname: "Suarez"
@@ -66,7 +64,7 @@
   surname: "Perez"
   title: "Scala Developer en 47 Degrees y fan de la colaboración y los eventos"
   thumbnailUrl: FranPerez.jpeg
-  subTeam: true
+  team: true
   social:
     - {name: "twitter", link: "https://twitter.com/FPerezP"}
     - {name: "site", link: "http://blog.fperezp.com/"}
@@ -74,9 +72,29 @@
   id: 6
   name: "Francisco"
   surname: "Bueno"
-  title: "Angular Developer y Sr. Lobo del Material Fest"
+  title: "Angular Developer y Mr Lobo en Material Fest"
   thumbnailUrl: FranciscoBueno.jpg
-  subTeam: true
+  team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/Fran__Good"}
-    - {name: "site", link: "http://www.franciscobueno.com/"}
+    - {name: "twitter", link: "https://twitter.com/FPerezP"}
+    - {name: "site", link: "http://blog.fperezp.com/"}
+-
+  id: 6
+  name: "Isra"
+  surname: "Boza"
+  title: "Kaos monkey and miracle maker. Organizador de Android Sevilla y liante por derecho"
+  thumbnailUrl: IsraBoza.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/israkaos"}
+-
+  id: 6
+  name: "Fede"
+  surname: "Fernandez"
+  title: "Scala Software Engineering at @47deg_es | @GDGSevilla Organizer | Editor on androcode.es and http://cazaconciertos.com "
+  thumbnailUrl: FedeFdz.jpeg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/FedeProEx"}
+
+

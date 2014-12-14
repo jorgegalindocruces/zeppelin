@@ -125,19 +125,46 @@ subscribeAction: "http://47deg.us6.list-manage.com/subscribe?u=66b615bef6&id=70c
 subscribeInfo: "El registro se abrirá en Enero. El numero de entradas es limitado... Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Lista de precios"
-ticketsInfo: "La entrada asegurará la participación en cualquiera de los dos tracks y participación en el campeonato de ping pong"
+ticketsTitle: "¿Cuanto cuesta?"
+ticketsInfo: "La entrada al evento asegurará la participación de cualquier evento o mesa redonda y la posibilidad de asistir a todas las charlas. Todo superavit se invertirá en confort"
 ticketsOffers:
  -
-  name: "Material Fest"
+  name: "Early Bird"
+  price: "12"
+  priceCurrency: "Euros"
+  ticketsNumber: "12"
+  ribbon: "-5%"
+  buyButtonLink: "http://material.ticketforevent.com/"
+  buyButtonText: "¡Compralo ahora!"
+  ticketContentList: ["Si eres el más rápido del oeste te saldrá barato", "Sabés que lo vale y después te arrepentiras", "Acceso a todas las charlas y participación en actividades"]
+  validFrom: "2014-12-16T10:00"
+  validThrough: "2015-01-15T23:59"
+ -
+  name: "Ultima oportunidad"
   price: "15"
   priceCurrency: "Euros"
-  ticketsNumber: "15"
-  buyButtonLink: "http://materialfest.ticketforevent.com/"
-  buyButtonText: "Compralo ahora"
-  ticketContentList: ["Todo el dinero se reinvertirá en comida y confort"]
-  validFrom: "2014-12-01T10:00"
-  validThrough: "2015-01-15T23:59"
+  ticketsNumber: "100"
+  featured: true
+  buyButtonLink: "http://material.ticketforevent.com/"
+  buyButtonText: "¡Compralo ahora!"
+  ticketContentList: ["Sólo en la última semana del evento", "Accede a uno de los mejores eventos para desarrolladores y diseñadores de Andalucía", "Acceso a todas las charlas y participación en actividades"]
+  validFrom: "2015-01-15T23:59"
+  validThrough: "2015-01-30T23:59"
+  disabled: true
+ -
+  name: "Estudiante"
+  price: "10"
+  priceCurrency: "Euros"
+  ribbon: "-20%"
+  ticketsNumber: "50"
+  buyButtonLink: "http://material.ticketforevent.com/"
+  buyButtonText: "¡Compralo ahora!"
+  additionalInfo: "Requiere en el intercambio de la entrada, mostrar el carnet universitario o la identificación de estudiantes"
+  ticketContentList: ["¿Eres un futuro de diseñador o desarrollador?", "Valido para Universitarios y estudiantes de FP", "¡Ya no tienes excusa!"]
+  validFrom: "2014-12-16T10:00"
+  validThrough: "2014-10-23T23:59"
+#  soldOut: true
+#  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
