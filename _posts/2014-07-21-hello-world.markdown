@@ -1,45 +1,44 @@
 ---
 layout: post
 title:  "Hello World Material Fest!"
-date:   2014-10-02 08:00:00
+date:   2014-12-16 08:00:00
 isStaticPost: false
 ---
 
-Estamos muy contentos de anunciar un evento con el que llevabamos más de un año en la cabeza. El primer **Material Fest 2014**! Un evento enfocado en diseño y a desarrollo por partes iguales.
+Hace unos meses empezamos a imaginar un evento al que nos gustaría asistir. Algo enfocado en la gente **que realmente hacen los productos** hablando **desde la experiencia**. Algo que catalice los dos elementos clave que forman cualquier Startup. **Diseño y Desarrollo**
 
-Las guías de estilo que ha lanzado Google son algo que ha implicado una revolución para todo el que trabaja en tecnología, tanto en diseño como en desarrollo, es por eso que hemos querido hacer un evento enfocado en las dos categorias.
+Nosotros estábamos acostumbrados a realizar eventos. Eramos organizadores de The Singulars (encuentros mensuales de diseño) y GDG Cádiz - Betabeers Cádiz (Encuentros de desarrolladores), pero queríamos que **este evento fuera distinto **. Algo con un enfoque **muy profesional** pero también **pequeño y bonito**, algo como... **Cádiz**. Así que nos pusimos a trabajar en ello.
 
+Dejar que os contemos lo que hemos organizado:
 
-* **Asistencia**: Esperamos 350 asistentes
-* **Charlas**: 1 día con más de 16 charlas
+* **Asistencia**: Esperamos a 350 asistentes entre desarrolladores, diseñadores y curiosos.
+* **Charlas**: 1 día muy a tope con más de 16 charlas. Dos tracks en paralelo y un track de actividades.
 * **Fecha**: 31 de Enero
-* **En donde?**: En Cádiz. Aulario la Bomba, justo al lado de la Caleta
-* **Speakers**: we're in the process of finalising the list of speakers
+* **¿En donde?**: En el centro Cádiz. Aulario la Bomba, justo al lado de la Caleta
+* **Ponentes**: Speakers internacionales de startups de exito.
 
-but we've already secured a first batch of experts:
+Para que nos vamos a engañar, cuando les dijimos que el evento era en Cádiz y que los enterrariamos en pescaito y cerveza se les hicieron los ojos chirivitas. Hemos intentado reunir a la flor y la nata del diseño y el desarrollo móvil.
 
-* **Dawid Ostrowski** - Developer Relation from Google, who excited about cloud technologies<br>
-* **Mateusz Herych** - Android GDE and GDG organizer from Krakow<br>
-* **Dmytro Danylyk** - developer, blogger, speaker, author of open source 1000+ star libraries <br>
-* **Roman Mazur** - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days<br>
+* **DISEÑO** <br>
 
+* **Daniel Mota** Hasta el 2014 Lead Designer en Tuenti. Actualmente Lead Designer en Localistico
+* **Ale Muñoz** Diseñador en Bomber Studios, equipo que ha creado uno de los programas más utilizados para el diseño a nivel mundial. Sketch
+* **Manu Gamero** Actualmente diseñador de producto en Interfaces. Anteriormente diseñador en Square
+* **Lole y Bea** Amantes de la tipografía tanto en la vieja escuela como en lo digital.
+* **Máximo Gabete** Todo un monstruo creando identidades corporativas e iconografias.
+* **Danny Saltaren** Cofundador y diseñador en Kendo Studio. Antes Lead Designer en Fever.
+* **Javi Perez** Product Designer y creador de apps como Nominazer y Klifix. Organizador de Baaang
 
-More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGLviv), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv), add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any cool stuff about festival.
+* **DESARROLLO** <br>
 
+* **Jorge Barroso** Todo un clasico en los eventos de desarrollo en España. Cofundador y Android Expert en Karumi. Anteriormente Senior App Developer en Tuenti
+* **Fernando Cejas** Un grande del desarrollo Android. Actualmente Mobile Engineer en SoundCloud. Organizador de GDG por todo el mundo.
+* **Javier Leiva** Creador de Bandhook, un ejemplo de buen uso de guias de estilo en Android.
+* **David Gonzalez** Android Software Craftsman at Novoda
+* **Pedro Vicente** Senior Mobile Software Engineer at Tuenti
+* **Javi Pacheco & Raul Raja** El duo dinamico del desarrollo Android con Scala
+* **Ismael Faro, Pedro Hurtado & Javier Velez** GdG organizers y Polymer Experts
 
+Todavía nos quedan charlas por confirmar y habrá mesas redondas y actividades dinamizadoras como un torneo de ping pong.
 
-* **Attendance**: we're expecting over 350 attendees
-* **Topic**: more than 48 hours of pure Google technologies 
-* **Date**: 24-25 of October, expect hackathon and workshops on a first day and conference on the second
-* **Venue**: Kinopalace Cinema - for a first time we'll make technical event in real cinema directly in the heart of the ancient city of Lviv
-* **Speakers**: we're in the process of finalising the list of speakers
-
-but we've already secured a first batch of experts:
-
-* **Dawid Ostrowski** - Developer Relation from Google, who excited about cloud technologies<br>
-* **Mateusz Herych** - Android GDE and GDG organizer from Krakow<br>
-* **Dmytro Danylyk** - developer, blogger, speaker, author of open source 1000+ star libraries <br>
-* **Roman Mazur** - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days<br>
-
-
-More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGLviv), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv), add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any cool stuff about festival.
+Espero que os guste lo que hemos montado!
