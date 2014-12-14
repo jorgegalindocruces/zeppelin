@@ -4,7 +4,7 @@
   tracks: 
     - {title: "Diseño", color: "#90be4e"}
     - {title: "Desarrollo", color: "#03a9f4"}
-    - {title: "Brigde", color: "#e91e63"}
+    - {title: "Actividades Paralelas", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "10:00",
@@ -30,7 +30,7 @@
     - {
             startTime: "15:00",
             endTime: "16:00",
-            sessionIds: [307]
+            sessionIds: [001]
     }
 
     - {
