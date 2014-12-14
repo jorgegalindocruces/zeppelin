@@ -110,7 +110,7 @@ venueFeatures: ["En el casco antiguo de Cádiz", "Dos salas para los tracks inde
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Que esta pasando?"
+tweetsFeedTitle: "¿Que esta pasando?"
 twitterHashTag: "materialFest"
 twitterFeed: "http://enterwebdesign.es/blog_jgc/tweetledee/searchjson.php?q=Material"
 
