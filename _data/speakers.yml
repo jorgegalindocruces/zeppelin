@@ -194,4 +194,20 @@
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/javielinux"}
 
+-
+  id: 13
+  name: "Raúl"
+  surname: "Raja"
+  company: "47 Degrees"
+  title: "Co-founder at 47 Degrees and Scala ninja"
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: RaulRaja.jpg
+  rockstar: true
+  ribbon:
+   - {abbr: "Desarrollo", title: "Scala & Android", url: ""}
+  social:
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/raulraja"}
+
+
 
