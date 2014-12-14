@@ -1,5 +1,5 @@
 - 
-  group: "Sponsors"
+  group: "Patrocinadores"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "47 Degrees", description: "47 Degrees", link: "https://www.47deg.com", imageUrl: "47degrees.png"}
