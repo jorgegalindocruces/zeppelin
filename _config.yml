@@ -7,7 +7,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "Material Fest 2015"
 email: "materialfest@gmail.com"
 description: "El primer evento enfocado en diseño Material y desarrollo en Android L"
-baseurl: ""
+baseurl: "/zeppelin"
 url: "http://materialfest.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
