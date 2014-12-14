@@ -5,7 +5,7 @@
     - {name: "The Singulars ", description: "Excusas perfectas para hablar de diseño.", link: "https://twitter.com/thesingulars_es", imageUrl: "logo-thesingulars.gif"}
 
 -
-  group: "Co-organizers"
+  group: "Co-organizadores"
   elements:
 
     - {name: "GDG Sevilla", description: "GDG Sevilla - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdgSevilla.png"}
