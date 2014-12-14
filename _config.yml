@@ -133,7 +133,7 @@ ticketsOffers:
   price: "12"
   priceCurrency: "Euros"
   ticketsNumber: "12"
-  ribbon: "-5%"
+  ribbon: "-20%"
   buyButtonLink: "http://material.ticketforevent.com/"
   buyButtonText: "¡Compralo ahora!"
   ticketContentList: ["Si eres el más rápido del oeste te saldrá barato", "Sabés que lo vale y después te arrepentiras", "Acceso a todas las charlas y participación en actividades"]
@@ -155,7 +155,7 @@ ticketsOffers:
   name: "Estudiante"
   price: "10"
   priceCurrency: "Euros"
-  ribbon: "-20%"
+  ribbon: "-40%"
   ticketsNumber: "50"
   buyButtonLink: "http://material.ticketforevent.com/"
   buyButtonText: "¡Compralo ahora!"
