@@ -33,7 +33,7 @@ Para que nos vamos a engañar, cuando les dijimos que el evento era en Cádiz y 
 
 * **Jorge Barroso** Todo un clasico en los eventos de desarrollo en España. Cofundador y Android Expert en Karumi. Anteriormente Senior App Developer en Tuenti
 * **Fernando Cejas** Un grande del desarrollo Android. Actualmente Mobile Engineer en SoundCloud. Organizador de GDG por todo el mundo.
-* **Javier Leiva** Creador de Bandhook, un ejemplo de buen uso de guias de estilo en Android.
+* **Antonio Leiva** Creador de Bandhook, un ejemplo de buen uso de guias de estilo en Android.
 * **David Gonzalez** Android Software Craftsman at Novoda
 * **Pedro Vicente** Senior Mobile Software Engineer at Tuenti
 * **Javi Pacheco & Raul Raja** El duo dinamico del desarrollo Android con Scala
