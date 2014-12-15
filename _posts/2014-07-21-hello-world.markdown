@@ -42,3 +42,5 @@ Para que nos vamos a engañar, cuando les dijimos que el evento era en Cádiz y 
 Todavía nos quedan charlas por confirmar y habrá mesas redondas y actividades dinamizadoras como un torneo de ping pong.
 
 Espero que os guste lo que hemos montado!
+
+Si quieres participar en nuestro sueño, aquí puedes ver los planes de esponsorización, hay de todos los gustos y colores! Si tienes alguna pregunta a la organización, puedes enviarla a materialfest@gmail.com.
