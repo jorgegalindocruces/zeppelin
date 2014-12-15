@@ -38,14 +38,14 @@
     - {name: "site", link: "http://www.projectsperminute.com/"}
 -
   id: 4
-  name: "Jorge"
-  surname: "Galindo"
-  title: "Cofundador de 47 Degrees Spain y liante por derecho"
-  thumbnailUrl: jorgegalindo.jpg
+  name: "47 Degrees"
+  surname: "Team"
+  title: "El equipo de 47 Degrees Spain"
+  thumbnailUrl: 47Degrees.jpg
   team: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+JorgeGalindoCruces"}
-    - {name: "twitter", link: "https://twitter.com/jorge__GAlindo"}
+    - {name: "google-plus", link: "https://plus.google.com/+47deg/posts"}
+    - {name: "twitter", link: "https://twitter.com/47deg_es"}
 #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
@@ -58,16 +58,6 @@
     - {name: "google-plus", link: "https://plus.google.com/+TeresaSuárezMartín"}
     - {name: "twitter", link: "https://twitter.com/teresuarezm"}
 #    - {name: "github", link: "https://github.com/dmytrodanylyk"}
--
-  id: 6
-  name: "Francisco"
-  surname: "Perez"
-  title: "Scala Developer en 47 Degrees y fan de la colaboración y los eventos"
-  thumbnailUrl: FranPerez.jpeg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/FPerezP"}
-    - {name: "site", link: "http://blog.fperezp.com/"}
 -
   id: 6
   name: "Francisco"
