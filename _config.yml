@@ -135,7 +135,7 @@ ticketsOffers:
   priceCurrency: "Euros"
   ticketsNumber: "12"
   ribbon: "-20%"
-  buyButtonLink: "http://material.ticketforevent.com/"
+  buyButtonLink: "https://materialfest.eventbrite.es"
   buyButtonText: "¡Compralo ahora!"
   ticketContentList: ["Si eres el más rápido del oeste te saldrá barato", "Sabés que lo vale y después te arrepentiras", "Acceso a todas las charlas y participación en actividades"]
   validFrom: "2014-12-16T10:00"
@@ -146,7 +146,7 @@ ticketsOffers:
   priceCurrency: "Euros"
   ticketsNumber: "100"
   featured: true
-  buyButtonLink: "http://material.ticketforevent.com/"
+  buyButtonLink: "https://materialfest.eventbrite.es"
   buyButtonText: "¡Compralo ahora!"
   ticketContentList: ["Sólo en la última semana del evento", "Accede a uno de los mejores eventos para desarrolladores y diseñadores de Andalucía", "Acceso a todas las charlas y participación en actividades"]
   validFrom: "2015-01-15T23:59"
@@ -156,9 +156,9 @@ ticketsOffers:
   name: "Estudiante"
   price: "10"
   priceCurrency: "Euros"
-  ribbon: "-40%"
-  ticketsNumber: "50"
-  buyButtonLink: "http://material.ticketforevent.com/"
+  ribbon: "-33%"
+  ticketsNumber: "100"
+  buyButtonLink: "https://materialfest.eventbrite.es"
   buyButtonText: "¡Compralo ahora!"
   additionalInfo: "Requiere en el intercambio de la entrada, mostrar el carnet universitario o la identificación de estudiantes"
   ticketContentList: ["¿Eres un futuro de diseñador o desarrollador?", "Valido para Universitarios y estudiantes de FP", "¡Ya no tienes excusa!"]
