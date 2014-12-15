@@ -77,14 +77,6 @@
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/israkaos"}
--
-  id: 6
-  name: "Fede"
-  surname: "Fernandez"
-  title: "Scala Software Engineering at @47deg_es | @GDGSevilla Organizer | Editor on androcode.es and http://cazaconciertos.com "
-  thumbnailUrl: FedeFdz.jpeg
-  team: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/FedeProEx"}
+
 
 
