@@ -39,15 +39,15 @@ c4sponsorsUrl: "mailto:materialfest@gmail.com"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
+# - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Ponentes"}
  - {permalink: "/team/", text: "Equipo"}
  - {permalink: "/logistics/", text: "Logística"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Call For Papers"}
+ - {link: "materialfest.eventbrite.es", text: "Entradas"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Call For Papers"}
+ - {link: "materialfest.eventbrite.es", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
