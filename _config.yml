@@ -248,6 +248,8 @@ directionDetailsWideCards:
 hackathonTitle: "Hackathon"
 enableHackathon: true
 
+
+
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
 hackathonRows:
