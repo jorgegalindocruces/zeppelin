@@ -224,28 +224,25 @@ directionDetailsCards:
  - {title: "Hoteles", information: 'Cádiz es lugar de vacaciones y hay tela de sitios guapetones donde elegir... Aquí os dejamos unos cuantos!'}
 directionDetailsWideCards: 
  -
-  title: "Questions?"
+  title: "¿Preguntas?"
   subCards:
    -
     title: "Hoteles"
     links:
      - {link: "http://www.hotelconventocadiz.com/", text: "Hotel Convento Cádiz"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Argantonio"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "http://www.booking.com/hotel/es/la-catedral-cadiz.es.html", text: "Hotel Catedral"}
+     - {link: "http://www.booking.com/hotel/es/patagonia-sur.es.html", text: "Hotel Patagonia Sur"}
    -
-    title: "Registration"
+    title: "Registro"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.hotelconventocadiz.com/", text: "Hotel Convento Cádiz"}
+     - {link: "http://www.booking.com/hotel/es/la-catedral-cadiz.es.html", text: "Hotel Catedral"}
+     - {link: "http://www.booking.com/hotel/es/patagonia-sur.es.html", text: "Hotel Patagonia Sur"}
    -
-    title: "Attendance Details"
+    title: "Sitios punteros en Cádiz"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://es.wikipedia.org/wiki/Playa_de_La_Caleta_%28C%C3%A1diz%29", text: "Playa de la Caleta"}
+     - {link: "http://es.wikipedia.org/wiki/La_Vi%C3%B1a_%28C%C3%A1diz%29", text: "La Viña"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
