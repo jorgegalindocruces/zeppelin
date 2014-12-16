@@ -51,7 +51,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Material <typeout> 2015"
+heroTitle: "Materials <typeout> 2015"
 eventDate: "31 De Enero, 2015"
 typeoutTextValues: '"Fest","Cadiz", "Android L", "Design", "Development"'
 typeoutFallback: "Season"
