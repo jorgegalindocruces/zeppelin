@@ -45,9 +45,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logística"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "materialfest.eventbrite.es", text: "Entradas"}
+ - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
 rightNavigationButtons:
- - {link: "materialfest.eventbrite.es", text: "Entradas"}
+ - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
