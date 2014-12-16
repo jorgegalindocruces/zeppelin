@@ -62,9 +62,9 @@ heroButtons:
 # About Block
 aboutTitle: "Acerca de Material Def Fest"
 aboutBlock:
- - {title: "Un track enfocado en diseño digital", image: "conference.jpg", text: "Charlas sobre tipografía, Material Design, iconografía y guías de estilo. Todo enfocado a móvil" }
- - {title: "Un track enfocado a desarrollo Android", image: "workshop.jpg", text: "Charlas sobre 'frontend en Android', animaciones y programación funcional" }
- - {title: "Eventos paralelos sobre UX y mesas redondas", image: "hackathon.jpg", text: "Un campeonato de mini ping-pong, mesas redondas y workshops sobre UX" }
+ - {title: "Un track enfocado en diseño digital", image: "about-section-track-Design.jpg", text: "Charlas sobre tipografía, Material Design, iconografía y guías de estilo. Todo enfocado a móvil" }
+ - {title: "Un track enfocado a desarrollo Android", image: "about-section-track_Develop.jpg", text: "Charlas sobre 'frontend en Android', animaciones y programación funcional" }
+ - {title: "Eventos paralelos sobre UX y mesas redondas", image: "about-section-track-Workshop.jpg", text: "Un campeonato de mini ping-pong, mesas redondas y workshops sobre UX" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
