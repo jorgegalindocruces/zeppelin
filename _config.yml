@@ -138,7 +138,7 @@ ticketsOffers:
   buyButtonLink: "https://materialfest.eventbrite.es"
   buyButtonText: "¡Compralo ahora!"
   ticketContentList: ["Si eres el más rápido del oeste te saldrá barato", "Sabés que lo vale y después te arrepentiras", "Acceso a todas las charlas y participación en actividades"]
-  validFrom: "2014-12-16T10:00"
+  validFrom: "2014-12-22T10:00"
   validThrough: "2015-01-15T23:59"
  -
   name: "Ultima oportunidad"
@@ -162,7 +162,7 @@ ticketsOffers:
   buyButtonText: "¡Compralo ahora!"
   additionalInfo: "Requiere en el intercambio de la entrada, mostrar el carnet universitario o la identificación de estudiantes"
   ticketContentList: ["¿Eres un futuro de diseñador o desarrollador?", "Valido para Universitarios y estudiantes de FP", "¡Ya no tienes excusa!"]
-  validFrom: "2014-12-16T10:00"
+  validFrom: "2014-12-22T10:00"
   validThrough: "2014-10-23T23:59"
 #  soldOut: true
 #  soldOutText: "Sold Out"
