@@ -140,6 +140,7 @@ ticketsOffers:
   ticketContentList: ["Si eres el más rápido del oeste te saldrá barato", "Sabés que lo vale y después te arrepentiras", "Acceso a todas las charlas y participación en actividades"]
   validFrom: "2014-12-22T10:00"
   validThrough: "2015-01-15T23:59"
+  disabled: true
  -
   name: "Ultima oportunidad"
   price: "15"
@@ -164,6 +165,7 @@ ticketsOffers:
   ticketContentList: ["¿Eres un futuro de diseñador o desarrollador?", "Valido para Universitarios y estudiantes de FP", "¡Ya no tienes excusa!"]
   validFrom: "2014-12-22T10:00"
   validThrough: "2014-10-23T23:59"
+  disabled: true
 #  soldOut: true
 #  soldOutText: "Sold Out"
 
