@@ -1,28 +1,16 @@
 - 
   id: 0
-  name: "lole"
-  surname: "Roman"
-  title: "Master and comander del diseño. Tipografo y culo inquieto por partes iguales"
-  thumbnailUrl: LoleRoman.jpeg
+  name: "THE BIG HOUSE"
+  surname: "DUO"
+  title: "El duo dinamico de diseño y la dirección creativa del evento. Corganizadores de The singulars"
+  thumbnailUrl: thebighouse.jpg
   team: true
   ribbon:
     - {abbr: "The Singulars", title: "Excusas de diseño"}
   social:
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/josergb"}
-    - {name: "site", link: "http://www.bynewroman.com/"}
--
-  id: 1
-  name: "Pablo"
-  surname: "Sacaluga"
-  title: "Forma junto con Lole el duo dinamico del diseño y la dirección creativa del evento. Corganizador de The singular"
-  thumbnailUrl: PabloSacaluga.jpeg
-  team: true
-  ribbon:
-    - {abbr: "The Singulars", title: "https://twitter.com/psacaluga"}
-  social:
-#    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "twitter", link: "https://github.com/ozasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/thebighouse_io"}
+    - {name: "site", link: "http://www.thebighouse.io/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/company/the-big-house"}
 -
   id: 2
   name: "Alex"
