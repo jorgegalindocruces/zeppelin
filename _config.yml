@@ -138,6 +138,7 @@ ticketsOffers:
   buyButtonLink: "https://materialfest.eventbrite.es"
   buyButtonText: "¡Compralo ahora!"
   ticketContentList: ["Si eres el más rápido del oeste te saldrá barato", "Sabés que lo vale y después te arrepentiras", "Acceso a todas las charlas y participación en actividades"]
+  additionalInfo: "Si eres el más rápido del oeste te saldrá barato"
   validFrom: "2014-12-22T10:00"
   validThrough: "2015-01-15T23:59"
   disabled: true
@@ -150,6 +151,7 @@ ticketsOffers:
   buyButtonLink: "https://materialfest.eventbrite.es"
   buyButtonText: "¡Compralo ahora!"
   ticketContentList: ["Sólo en la última semana del evento", "Accede a uno de los mejores eventos para desarrolladores y diseñadores de Andalucía", "Acceso a todas las charlas y participación en actividades"]
+  additionalInfo: "Sólo en la última semana del evento"
   validFrom: "2015-01-15T23:59"
   validThrough: "2015-01-30T23:59"
   disabled: true
@@ -225,10 +227,10 @@ directionDetailsWideCards:
   title: "Questions?"
   subCards:
    -
-    title: "Hotels"
+    title: "Hoteles"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "http://www.hotelconventocadiz.com/", text: "Hotel Convento Cádiz"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Argantonio"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
    -
     title: "Registration"
