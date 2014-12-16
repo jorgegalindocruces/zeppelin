@@ -109,7 +109,7 @@ venueTitle: "Aulario La Bomba"
 venueFeatures: ["En el casco antiguo de Cádiz", "Dos salas para los tracks independientes", "Un patio para las actividades y mesas redondas"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter.jpg"
+tweetsFeedImage: "rockstar-speakers.jpg"
 tweetsFeedTitle: "¿Que esta pasando?"
 twitterHashTag: "materialFest"
 twitterFeed: "http://enterwebdesign.es/blog_jgc/tweetledee/searchjson.php?q=Material"
@@ -120,7 +120,7 @@ partnersTitle: "Partners"
 partnersC4sponsorsButton: "¿Te molaría ser nuestro sponsor? ¿Quieres molar de verdad?"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
+subscribeImage: "rockstar-speakers.jpg"
 subscribeTitle: "Subscribete a nuestra Newsletter"
 subscribeAction: "http://47deg.us6.list-manage.com/subscribe?u=66b615bef6&id=70c8bcf5e6"
 subscribeInfo: "El registro se abrirá en Enero. El numero de entradas es limitado... Stay tuned!"
