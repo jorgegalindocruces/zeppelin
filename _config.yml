@@ -16,7 +16,7 @@ googleAnalyticsSiteUrl: "jorgegalindocruces.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Cadiz & The Singulars"
+organizerName: "GDG Cádiz & The Singulars"
 organizerAlternateName: "Google Developer Group Cádiz & The Singulars"
 organizerDescription: "GDG Cádiz & The Sigulars se unen para ofrecer un evento orientado tanto a diseño como en desarrollo con un foco común. Material"
 organizerEmail: "materialfest@gmail.com"
@@ -24,7 +24,7 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://plus.google.com/u/1/112866714526515716260/about"
 
 # Head
-metaKeywords: "event, material, android-l, devfest, google, desarrollo, diseño, android, chrome, developers, Cadiz"
+metaKeywords: "event, material, android-l, devfest, google, desarrollo, diseño, android, chrome, developers, Cádiz"
 twitterAccount: "@MaterialFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -51,13 +51,13 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Materials <typeout> 2015"
+heroTitle: "Materials <typeout>"
 eventDate: "31 De Enero, 2015"
 typeoutTextValues: '"Fest","Cádiz", "Android L", "Design", "Development"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://jorgegalindocruces.typeform.com/to/ADJFdK", text: "Call For Papers"}
- - {permalink: "/#tickets", text: "Quiero ir!"}
+ - {permalink: "/#tickets", text: "¡Quiero ir!"}
 
 # About Block
 aboutTitle: "Acerca de Material Def Fest"
