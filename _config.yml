@@ -4,11 +4,11 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
-title: "Material Fest 2015"
+title: "Material Fest. Un evento enfocado a diseñadores digitales y desarrolladores móviles. "
 email: "materialfest@gmail.com"
-description: "El primer evento enfocado en diseño Material y desarrollo en Android L"
-#baseurl: "/zeppelin"
-baseurl: ""
+description: "Aquí no veras teoría, sólo practica hablando desde la experiencia. ¿En donde? En Cádiz."
+baseurl: "/zeppelin"
+#baseurl: ""
 url: "http://materialfest.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -47,13 +47,13 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
 rightNavigationButtons:
- - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
+ - {link: "http://8materialfest.eventbrite.es", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Materials <typeout>"
-eventDate: "31 De Enero, 2015"
-typeoutTextValues: '"Fest","Cádiz", "Android L", "Design", "Development"'
+heroTitle: "Un evento sobre <typeout>"
+eventDate: "¿Cuando? El 31 De Enero. ¿Donde? En Cádiz"
+typeoutTextValues: '"Diseño Digital", "Desarrollo Móvil", "Experiencia"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://jorgegalindocruces.typeform.com/to/ADJFdK", text: "Call For Papers"}
@@ -109,7 +109,7 @@ venueTitle: "Aulario La Bomba"
 venueFeatures: ["En el casco antiguo de Cádiz", "Dos salas para los tracks independientes", "Un patio para las actividades y mesas redondas"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "twitter.jpg"
 tweetsFeedTitle: "¿Que esta pasando?"
 twitterHashTag: "materialFest"
 twitterFeed: "http://enterwebdesign.es/blog_jgc/tweetledee/searchjson.php?q=Material"
