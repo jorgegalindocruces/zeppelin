@@ -217,7 +217,7 @@
   title: "Meta-Mentor Technology en Google For Entrepreneurs"
 #  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
   thumbnailUrl: IsmaelFaro.jpg
-  rockstar: true
+#  rockstar: true
   ribbon:
    - {abbr: "Desarrollo", title: "Polymer", url: ""}
   social:
@@ -229,11 +229,11 @@
   id: 15
   name: "Pedro"
   surname: "Hurtado"
-#  company: "Consultor, Formador de Angularjs"
+  company: "Consultor"
   title: "Consultor, Formador de Angularjs"
 #  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
   thumbnailUrl: PedroHurtado.jpg
-  rockstar: true
+#  rockstar: true
   ribbon:
    - {abbr: "Desarrollo", title: "Polymer", url: ""}
   social:
@@ -250,7 +250,7 @@
   title: "Doctor en informática por la UNED. Especializado en Análisis y Diseño de colaboración. Arquitecto software. Inmerso en Web. Interesado en IT y curioso en todo."
 #  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
   thumbnailUrl: JavierVelez.jpeg
-  rockstar: true
+#  rockstar: true
   ribbon:
    - {abbr: "Desarrollo", title: "Polymer", url: ""}
   social:
