@@ -4,7 +4,7 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
-title: "Materials.  Un evento enfocado a diseñadores digitales y desarrolladores móviles."
+title: "Material Fest.  Un evento enfocado a diseñadores digitales y desarrolladores móviles."
 email: "materialfest@gmail.com"
 description: "Aquí no veras teoría, sólo practica hablando desde la experiencia. ¿En donde? En Cádiz."
 #baseurl: "/zeppelin"
