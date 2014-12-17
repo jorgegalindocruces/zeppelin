@@ -52,7 +52,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Un evento sobre <typeout>"
-eventDate: "¿Cuando? El 31 De Enero. ¿Donde? En Cádiz"
+eventDate: "¿Cuándo? El 31 De Enero. ¿Dónde? En Cádiz"
 typeoutTextValues: '"Diseño Digital", "Desarrollo Móvil", "Experiencia"'
 typeoutFallback: "Season"
 heroButtons:
