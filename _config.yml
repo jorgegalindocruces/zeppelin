@@ -4,16 +4,16 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
-title: "Materials 2015"
+title: "Materials.  Un evento enfocado a diseñadores digitales y desarrolladores móviles."
 email: "materialfest@gmail.com"
-description: "El primer evento enfocado en diseño Material y desarrollo en Android L"
+description: "Aquí no veras teoría, sólo practica hablando desde la experiencia. ¿En donde? En Cádiz."
 #baseurl: "/zeppelin"
 baseurl: ""
 url: "http://materialfest.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsTrackingId: "UA-57743212-1"
 googleAnalyticsSiteUrl: "jorgegalindocruces.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "Y7Pm0fcIrvUeShLGU9d_E2sz6u2Tjq3BRzmlTu7Iqjs"
 
 # Organizer Info
 organizerName: "GDG Cádiz & The Singulars"
@@ -47,13 +47,13 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
 rightNavigationButtons:
- - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
+ - {link: "http://8materialfest.eventbrite.es", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Materials <typeout>"
-eventDate: "31 De Enero, 2015"
-typeoutTextValues: '"Fest","Cádiz", "Android L", "Design", "Development"'
+heroTitle: "Un evento sobre <typeout>"
+eventDate: "¿Cuando? El 31 De Enero. ¿Donde? En Cádiz"
+typeoutTextValues: '"Diseño Digital", "Desarrollo Móvil", "Experiencia"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://jorgegalindocruces.typeform.com/to/ADJFdK", text: "Call For Papers"}
@@ -109,7 +109,7 @@ venueTitle: "Aulario La Bomba"
 venueFeatures: ["En el casco antiguo de Cádiz", "Dos salas para los tracks independientes", "Un patio para las actividades y mesas redondas"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "rockstar-speakers.jpg"
 tweetsFeedTitle: "¿Que esta pasando?"
 twitterHashTag: "materialFest"
 twitterFeed: "http://enterwebdesign.es/blog_jgc/tweetledee/searchjson.php?q=Material"
@@ -120,7 +120,7 @@ partnersTitle: "Partners"
 partnersC4sponsorsButton: "¿Te molaría ser nuestro sponsor? ¿Quieres molar de verdad?"
 
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
+subscribeImage: "rockstar-speakers.jpg"
 subscribeTitle: "Subscribete a nuestra Newsletter"
 subscribeAction: "http://47deg.us6.list-manage.com/subscribe?u=66b615bef6&id=70c8bcf5e6"
 subscribeInfo: "El registro se abrirá en Enero. El numero de entradas es limitado... Stay tuned!"
@@ -138,8 +138,10 @@ ticketsOffers:
   buyButtonLink: "https://materialfest.eventbrite.es"
   buyButtonText: "¡Compralo ahora!"
   ticketContentList: ["Si eres el más rápido del oeste te saldrá barato", "Sabés que lo vale y después te arrepentiras", "Acceso a todas las charlas y participación en actividades"]
-  validFrom: "2014-12-16T10:00"
+  additionalInfo: "Si eres el más rápido del oeste te saldrá barato"
+  validFrom: "2014-12-22T10:00"
   validThrough: "2015-01-15T23:59"
+  disabled: true
  -
   name: "Ultima oportunidad"
   price: "15"
@@ -149,6 +151,7 @@ ticketsOffers:
   buyButtonLink: "https://materialfest.eventbrite.es"
   buyButtonText: "¡Compralo ahora!"
   ticketContentList: ["Sólo en la última semana del evento", "Accede a uno de los mejores eventos para desarrolladores y diseñadores de Andalucía", "Acceso a todas las charlas y participación en actividades"]
+  additionalInfo: "Sólo en la última semana del evento"
   validFrom: "2015-01-15T23:59"
   validThrough: "2015-01-30T23:59"
   disabled: true
@@ -162,8 +165,9 @@ ticketsOffers:
   buyButtonText: "¡Compralo ahora!"
   additionalInfo: "Requiere en el intercambio de la entrada, mostrar el carnet universitario o la identificación de estudiantes"
   ticketContentList: ["¿Eres un futuro de diseñador o desarrollador?", "Valido para Universitarios y estudiantes de FP", "¡Ya no tienes excusa!"]
-  validFrom: "2014-12-16T10:00"
+  validFrom: "2014-12-22T10:00"
   validThrough: "2014-10-23T23:59"
+  disabled: true
 #  soldOut: true
 #  soldOutText: "Sold Out"
 
@@ -220,32 +224,31 @@ directionDetailsCards:
  - {title: "Hoteles", information: 'Cádiz es lugar de vacaciones y hay tela de sitios guapetones donde elegir... Aquí os dejamos unos cuantos!'}
 directionDetailsWideCards: 
  -
-  title: "Questions?"
+  title: "¿Preguntas?"
   subCards:
    -
-    title: "Hotels"
+    title: "Hoteles"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "http://www.hotelconventocadiz.com/", text: "Hotel Convento Cádiz"}
+     - {link: "http://www.booking.com/hotel/es/la-catedral-cadiz.es.html", text: "Hotel Catedral"}
+     - {link: "http://www.booking.com/hotel/es/patagonia-sur.es.html", text: "Hotel Patagonia Sur"}
    -
-    title: "Registration"
+    title: "Registro"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.hotelconventocadiz.com/", text: "Hotel Convento Cádiz"}
+     - {link: "http://www.booking.com/hotel/es/la-catedral-cadiz.es.html", text: "Hotel Catedral"}
+     - {link: "http://www.booking.com/hotel/es/patagonia-sur.es.html", text: "Hotel Patagonia Sur"}
    -
-    title: "Attendance Details"
+    title: "Sitios punteros en Cádiz"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://es.wikipedia.org/wiki/Playa_de_La_Caleta_%28C%C3%A1diz%29", text: "Playa de la Caleta"}
+     - {link: "http://es.wikipedia.org/wiki/La_Vi%C3%B1a_%28C%C3%A1diz%29", text: "La Viña"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
 enableHackathon: true
+
+
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
