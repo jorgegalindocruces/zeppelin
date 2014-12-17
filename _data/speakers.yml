@@ -209,5 +209,55 @@
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/raulraja"}
 
+-
+  id: 14
+  name: "Ismael"
+  surname: "Faro"
+  company: "Google For Entrepreneurs"
+  title: "Meta-Mentor Technology en Google For Entrepreneurs"
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: IsmaelFaro.jpeg
+  rockstar: true
+  ribbon:
+   - {abbr: "Desarrollo", title: "Polymer", url: ""}
+  social:
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/ismaelfaro"}
+    - {name: "linkedin", link: "http://es.linkedin.com/in/ismaelfaro/es"}
+
+-
+  id: 15
+  name: "Pedro"
+  surname: "Hurtado"
+#  company: "Consultor, Formador de Angularjs"
+  title: "Consultor, Formador de Angularjs"
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: PedroHurtado.jpeg
+  rockstar: true
+  ribbon:
+   - {abbr: "Desarrollo", title: "Polymer", url: ""}
+  social:
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/_PedroHurtado"}
+    - {name: "web", link: "http://geeks.ms/blogs/phurtado/"}
+    - {name: "linkedin", link: "http://es.linkedin.com/pub/pedro-hurtado/2b/978/414"}
+
+-
+  id: 16
+  name: "Javier"
+  surname: "Velez"
+#  company: "47 Degrees"
+  title: "Doctor en informática por la UNED. Especializado en Análisis y Diseño de colaboración. Arquitecto software. Inmerso en Web. Interesado en IT y curioso en todo."
+#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: JavierVelez.jpeg
+  rockstar: true
+  ribbon:
+   - {abbr: "Desarrollo", title: "Polymer", url: ""}
+  social:
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "twitter", link: "https://twitter.com/javiervelezreye"}
+
+
+
 
 
