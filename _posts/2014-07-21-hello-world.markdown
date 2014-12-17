@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Hello World Material Fest!"
+title:  "Hola Mundo Material Fest!"
 date:   2014-12-16 08:00:00
 isStaticPost: false
 ---
 
 Hace unos meses empezamos a imaginar un evento al que nos gustaría asistir. Algo enfocado en la gente **que realmente hacen los productos** hablando **desde la experiencia**. Algo que catalice los dos elementos clave que forman cualquier Startup. **Diseño y Desarrollo**
 
-Nosotros estábamos acostumbrados a realizar eventos. Eramos organizadores de The Singulars (encuentros mensuales de diseño) y GDG Cádiz - Betabeers Cádiz (Encuentros de desarrolladores), pero queríamos que **este evento fuera distinto **. Algo con un enfoque **muy profesional** pero también **pequeño y bonito**, algo como... **Cádiz**. Así que nos pusimos a trabajar en ello.
+Nosotros estábamos acostumbrados a realizar eventos. Eramos organizadores de The Singulars (encuentros mensuales de diseño) y GDG Cádiz - Betabeers Cádiz (Encuentros de desarrolladores), pero queríamos que **este evento fuera distinto**. Algo con un enfoque **muy profesional** pero también **pequeño y bonito**, algo como... **Cádiz**. Así que nos pusimos a trabajar en ello.
 
 Dejar que os contemos lo que hemos organizado:
 
@@ -43,4 +43,4 @@ Todavía nos quedan charlas por confirmar y habrá mesas redondas y actividades 
 
 Espero que os guste lo que hemos montado!
 
-Si quieres participar en nuestro sueño, aquí puedes ver los planes de esponsorización, hay de todos los gustos y colores! Si tienes alguna pregunta a la organización, puedes enviarla a materialfest@gmail.com.
+Si tienes alguna pregunta a la organización, puedes enviarla a materialfest@gmail.com.
