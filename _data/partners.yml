@@ -2,7 +2,7 @@
   group: "Patrocinadores"
   elements: 
     - {name: "Google", description: "Google", link: "http://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "47 Degrees", description: "47 Degrees", link: "https://www.47deg.com", imageUrl: "47degrees.png"}
+    - {name: "47 Degrees", description: "47 Degrees", link: "http://www.47deg.com", imageUrl: "47degrees.png"}
     - {name: "THE BIG HOUSE", description: "THE BIG HOUSE", link: "http://www.thebighouse.io", imageUrl: "bighouse.svg"}
     - {name: "Catedra de Emprendedores de la Universidad de Cádiz", description: "Catedra de Emprendedores de la Universidad de Cádiz", link: "http://www.uca.es/emprendedores/", imageUrl: "Catedra.jpg"}
     - {name: "Universidad de Cádiz", description: "Universidad de Cádiz", link: "http://www.uca.es", imageUrl: "Uca.png"}
