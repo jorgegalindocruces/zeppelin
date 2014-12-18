@@ -7,8 +7,8 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "Material Fest.  Un evento enfocado a diseñadores digitales y desarrolladores móviles."
 email: "materialfest@gmail.com"
 description: "Aquí no veras teoría, sólo practica hablando desde la experiencia. ¿En donde? En Cádiz."
-#baseurl: "/zeppelin"
-baseurl: ""
+baseurl: "/zeppelin"
+#baseurl: ""
 url: "http://materialfest.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-57743212-1"
@@ -21,7 +21,7 @@ organizerAlternateName: "Google Developer Group Cádiz & The Singulars"
 organizerDescription: "GDG Cádiz & The Sigulars se unen para ofrecer un evento orientado tanto a diseño como en desarrollo con un foco común. Material"
 organizerEmail: "materialfest@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "https://plus.google.com/u/1/112866714526515716260/about"
+organizerLink: "https://plus.google.c8om/u/1/112866714526515716260/about"
 
 # Head
 metaKeywords: "event, material, android-l, devfest, google, desarrollo, diseño, android, chrome, developers, Cádiz"
@@ -47,7 +47,8 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
 rightNavigationButtons:
- - {link: "http://8materialfest.eventbrite.es", text: "Entradas"}
+ - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
+ - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
