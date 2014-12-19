@@ -49,7 +49,6 @@ bottomNavigationLinks:
  - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
 rightNavigationButtons:
  - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
- - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
