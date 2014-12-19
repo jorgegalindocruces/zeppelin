@@ -22,7 +22,7 @@ Para que nos vamos a engañar, cuando les dijimos que el evento era en Cádiz y 
 * **DISEÑO** <br>
 
 * **Daniel Mota** Hasta el 2014 Lead Designer en Tuenti. Actualmente Lead Designer en Localistico
-* **Ale Muñoz** Diseñador en Bomber Studios, equipo que ha creado uno de los programas más utilizados para el diseño a nivel mundial. Sketch
+* **Ale Muñoz** Diseñador en Bohemian Coding, equipo que ha creado uno de los programas más utilizados para el diseño a nivel mundial: Sketch
 * **Manu Gamero** Actualmente diseñador de producto en Interfaces. Anteriormente diseñador en Square
 * **Lole y Bea** Amantes de la tipografía tanto en la vieja escuela como en lo digital.
 * **Máximo Gabete** Todo un monstruo creando identidades corporativas e iconografias.
