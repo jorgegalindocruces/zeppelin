@@ -7,8 +7,6 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "Material Fest.  Un evento enfocado a diseñadores digitales y desarrolladores móviles."
 email: "materialfest@gmail.com"
 description: "Aquí no veras teoría, sólo practica hablando desde la experiencia. ¿En donde? En Cádiz."
-#baseurl: "/zeppelin"
-
 baseurl: ""
 url: "http://materialfest.com"
 permalink: "/blog/:title"
@@ -49,7 +47,7 @@ bottomNavigationLinks:
  - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
 rightNavigationButtons:
  - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
- - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
+# - {link: "http://materialfest.eventbrite.es", text: "Entradas"}
 
 # Hero Block
 heroImage: "hero.jpg"
