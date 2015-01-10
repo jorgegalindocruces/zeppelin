@@ -1,7 +1,8 @@
 $nav-color: #fff;
 $nav-color-hover: #cfcfcf;
-$nav-scroll-color: rgba(0, 0, 0, .5);
-$nav-scroll-color-hover: rgba(0, 0, 0, .8);
+//$nav-scroll-color: rgba(0, 0, 0, .5);
+$nav-scroll-color: rgba(255, 255, 255, .8);
+$nav-scroll-color-hover: rgba(255, 255, 255, .5);
 
 .top-header {
     position: fixed;
@@ -13,7 +14,7 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     }
     &.after-scroll {
         padding-top: 0;
-        box-shadow: 0 0 5px rgba(0, 0, 0, .2), 0 1px 0 rgba(255, 255, 255, .15);
+        box-shadow: 0 0 5px rgba(0, 0, 0, .2),0 1px 0 rgba(69, 74, 164, .15);
         .overlay {
             opacity: 1;
         }
@@ -34,12 +35,13 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         transform: translateY(1px);
         @media (max-width: 767px) {
             transform: translateX(-45px);
-        }    
+        } 
     }
     .logo {
         display: inline-block;
         float: left;
-        width: 174px;
+        //width: 174px;
+        width: 244px;
         height: 60px;
         margin-right: 20px;
         transform: scale(.7);
@@ -88,7 +90,8 @@ nav {
             transform: translateY(0);  
         }
         .top-header.after-scroll & {
-            transform: translateY(20px);  
+            transform: translateY(20px);
+
         }
     }
     li {
