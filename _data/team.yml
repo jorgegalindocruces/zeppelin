@@ -34,7 +34,7 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/+47deg/posts"}
     - {name: "twitter", link: "https://twitter.com/47deg_es"}
-#    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "site", link: "http://www.47deg.com"}
 -
   id: 5
   name: "Teresa"
@@ -54,8 +54,9 @@
   thumbnailUrl: FranciscoBueno.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/FPerezP"}
-    - {name: "site", link: "http://blog.fperezp.com/"}
+    - {name: "twitter", link: "https://twitter.com/fran__good"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/franciscobuenodelatorre"}
+    - {name: "site", link: "http://www.franciscobueno.com/"}
 -
   id: 6
   name: "Isra"
