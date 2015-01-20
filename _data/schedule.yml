@@ -2,8 +2,8 @@
   date: "2015-01-31"
   dateReadable: "Material Fest. 31 de Enero"
   tracks: 
-    - {title: "Diseño", color: "#90be4e"}
-    - {title: "Desarrollo", color: "#03a9f4"}
+    - {title: "Diseño", color: "#009688"}
+    - {title: "Desarrollo", color: "#F1592b"}
     - {title: "Actividades Paralelas", color: "#e91e63"}
   timeslots:
     - {
