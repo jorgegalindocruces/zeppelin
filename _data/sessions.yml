@@ -1,17 +1,72 @@
 -
   id: 000
-  title: "Emociones y Diseño de Producto"
-  place: ""
-  subtype: "Diseño"
-  service: true
--
-  id: 001
-  title: "Coffee Break"
+  title: "Apertura de puertas y acreditación"
   place: "Hall"
   service: true
 -
+  id: 001
+  title: "¡Bienvenidos a la movida!"
+  description: "Acto de apertura en el que los organizadores nos hablan sobre la vida"
+  subtype: workshop
+-
   id: 002
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
+  title: "Material for Old Schoolers"
+  description: "Material viene dando duro, pero la gente no se actualiza sus móviles, ¿que hacemos con ellos?, ¿les damos soporte?, ¿podemos los desarrolladores anclados en el pasado usar esto de forma fácil?, ¿son las librerías de compatibilidad la solución a nuestros problemas?, ¿qué hacemos cuando ni hay ni se espera librería de compatibilidad?. Todo estoy y algo más intentarán responder estos dos abuelos del software."
+  subtype: Desarrollo
+  speakers: [1, 6]
+  language: es
+  complexity: "Intermediate"
+-
+   id: 003
+   title: "Emociones y Diseño de Producto"
+   description: ""
+   subtype: Diseño
+   speakers: [2]
+   language: es
+   complexity: "Intermediate"
+-
+   id: 004
+   title: "Material Animations and other related stories"
+   description: ""
+   subtype: Desarrollo
+   speakers: [12]
+   language: es
+   complexity: "Intermediate"
+-
+   id: 005
+   title: "Branding en Apps"
+   description: ""
+   subtype: Diseño
+   speakers: [5]
+   language: es
+   complexity: "Intermediate"
+-
+   id: 006
+   title: "Animaciones en Material"
+   description: ""
+   subtype: Desarrollo
+   speakers: [12]
+   language: es
+   complexity: "Intermediate"
+-
+   id: 007
+   title: "Working with Android TV"
+   description: "Android ha evolucionado hasta darnos la posibilidad de crear aplicaciones para televisión, un nuevo dispositivo que se encuentra en cualquier casa. El desarrollo de aplicaciones Android para este nuevo set de dispositivos supone un nuevo reto para los programadores que deberán afrontar en breve. A lo largo de esta charla veremos cuales son las claves para el desarrollo de este tipo de aplicaciones que estarán en los salones de nuestra casa en breve. ¿Te lo vas a perder?"
+   subtype: Desarrollo
+   speakers: [13]
+   language: es
+   complexity: "Intermediate"
+-
+   id: 008
+   title: "El diseño móvil como parte de la experiencia"
+   description: ""
+   subtype: Diseño
+   speakers: [10]
+   language: es
+   complexity: "Intermediate"
+-
+   id: 009
+   title: "Painless Android Development with Scala."
+   description: "Scala is a innovative and modern hybrid programing language that let's you mix the best of OOP and Functional paradigms in a concise strictly typed style.
+                 Including first-class functions, efficient immutable data structures, and a general preference of immutability over mutation Scala exceeds Java's capabilities for safety defensive coding, boilerplate free code reuse and powerful abstractions that make Android development and dealing with Android's SDK design limitations less painful.
 

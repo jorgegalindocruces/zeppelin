@@ -54,9 +54,9 @@ heroImage: "hero.jpg"
 heroTitle: "Un evento sobre <typeout>"
 eventDate: "¿Cuándo? El 31 De Enero. ¿Dónde? En Cádiz"
 typeoutTextValues: '"Diseño Digital", "Desarrollo Móvil", "Experiencia"'
-typeoutFallback: "Season"
+typeoutFallback: "Diseño digital y Desarrollo móvil"
 heroButtons:
- - {link: "https://jorgegalindocruces.typeform.com/to/ADJFdK", text: "Call For Papers"}
+# - {link: "https://jorgegalindocruces.typeform.com/to/ADJFdK", text: "Call For Papers"}
  - {permalink: "/#tickets", text: "¡Quiero ir!"}
 
 # About Block
