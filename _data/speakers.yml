@@ -39,7 +39,7 @@
   thumbnailUrl: ManuGamero.png
   rockstar: true
   ribbon:
-     - {abbr: "Diseño", title: "Móvil", url: ""}
+     - {abbr: "Diseño", title: "Diseño", url: ""}
   social:
 #    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/manugamero"}
@@ -53,7 +53,7 @@
   thumbnailUrl: AleMunoz.jpeg
   rockstar: true
   ribbon:
-    - {abbr: "Diseño", title: "Sketch", url: ""}
+    - {abbr: "Diseño", title: "Diseño", url: ""}
 #    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
 #    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
@@ -64,25 +64,25 @@
   surname: "Mota"
   company: "Localistico"
   title: "Lead Designer at Localistico"
-  bio: "I had a blog. UI Designer · danielmota.me"
-  thumbnailUrl: DanielMota.jpeg
+  bio: "Daniel Mota (@icebeat) es Lead Designer en Localistico, una Startup fundada hace menos de un año. Anteriormente Lead Designer en Tuenti, Red social y Operadora móvil."
+  thumbnailUrl: DanielMota.jpg
   rockstar: true
   ribbon:
-    - {abbr: "Diseño", title: "Móvil", url: ""}
+    - {abbr: "Diseño", title: "Diseño", url: ""}
   social:
 #    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "https://twitter.com/icebeat"}
 -
   id: 5
   name: "Máximo"
-  surname: "Gabete"
-  company: "Trasteria"
-  title: "Diseñador gráfico. Branding, tipografía y naming. Freelance desde Barcelona. También en @trasteria @plfpodcast y @entretiposconf"
-#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: MaximoGabete.jpeg
+  surname: "Gavete"
+  company: "Omixam Estudio"
+  #title
+  bio: "Diseñador gráfico con base en Barcelona. Branding, tipografía y naming corren por mis venas. También diseño y me mancho de tinta en La Trastería. Hablo y debato sobre diseño en el podcast Perdiendo las Formas. Si me queda tiempo, monto junto con otros locos eventos como WebCat Bcn, Entretipos y EBE."
+  thumbnailUrl: MaximoGavete.jpg
   rockstar: true
   ribbon:
-   - {abbr: "Diseño", title: "Iconografía", url: ""}
+   - {abbr: "Diseño", title: "Diseño", url: ""}
   social:
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/omixam"}
@@ -106,13 +106,13 @@
   id: 7
   name: "Lole"
   surname: "Roman"
-  company: "the BIG HOUSE, Comando Cran & Fontown"
-  title: "Diseñador de UI/NUI y de tipos"
-#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  company: "THE BIG HOUSE"
+  #title: ""
+  bio: "Diseñador de UI/NUI y de tipos. Ahora? fundando @thebighouse_io y @fontown_, de charlas/workshops con @ComandoCran y organizando @thesingulars_es ^_^!"
   thumbnailUrl: LoleRoman.jpeg
   rockstar: true
   ribbon:
-   - {abbr: "Diseño", title: "Tipografía", url: ""}
+   - {abbr: "Diseño", title: "Diseño", url: ""}
   social:
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/josergb"}
@@ -138,12 +138,12 @@
   name: "Danny"
   surname: "Saltaren"
   company: "Kendo Studio"
-  title: "CoFounder and Designer at Kendo Studio"
-#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  #title: "CoFounder and Designer at Kendo Studio"
+  bio: "Designer & CoFounder at @kendostudio. Former Head of design @feverapp, Lead designer @samyroad. @vostokstudio programme alumnus"
   thumbnailUrl: DannySaltaren.jpg
   rockstar: true
   ribbon:
-   - {abbr: "Diseño", title: "Móvil", url: ""}
+   - {abbr: "Diseño", title: "Diseño", url: ""}
   social:
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/dsaltaren"}
@@ -154,13 +154,13 @@
   id: 10
   name: "Ester"
   surname: "Serrano"
-  company: "Designit Madrid. "
+  company: "Designit Madrid."
   title: "Interaction Designer"
-  bio: "In 2013 I have been working as project owner leading design teams at Designit. I have refined design skills such as UX / Visual design and prototyping as well as managed projects in terms of timing and budgets. Regarding project typology I have been focused on design for kids and education."
+  bio: "Diseñadora industrial de formación, trabajo como diseñadora de interacción y visual en Designit Madrid. En los últimos años he llevado a cabo proyectos relacionados con el diseño digital y estratégico con especial foco en el sector Educación."
   thumbnailUrl: EsterSerrano.jpeg
   rockstar: true
   ribbon:
-   - {abbr: "Diseño", title: "UX", url: ""}
+   - {abbr: "Diseño", title: "Diseño", url: ""}
   social:
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/EsterSerrano"}
@@ -171,13 +171,12 @@
   id: 11
   name: "Javi"
   surname: "Perez"
-#  company: "Kendo Studio"
   title: "Product designer"
-#  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  bio: "Ingeniero en diseño de producto onubense, después de 6 años como diseñador web y branding, se centra en el la creación de producto tanto físico como digital. Ha trabajado con clientes como ‘La Caixa’, Vueling, Telefónica, Surgenia y Sherpa entre otros. Actualmente trabaja en su estudio como freelance, alternándolo con el desarrollo de proyectos personales a nivel de diseño y programac."
   thumbnailUrl: javiperez.png
   rockstar: true
   ribbon:
-   - {abbr: "Diseño", title: "Móvil", url: ""}
+   - {abbr: "Diseño", title: "Diseño", url: ""}
   social:
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "twitter", link: "https://twitter.com/dobleperez"}
