@@ -70,3 +70,106 @@
    description: "Scala is a innovative and modern hybrid programing language that let's you mix the best of OOP and Functional paradigms in a concise strictly typed style.
                  Including first-class functions, efficient immutable data structures, and a general preference of immutability over mutation Scala exceeds Java's capabilities for safety defensive coding, boilerplate free code reuse and powerful abstractions that make Android development and dealing with Android's SDK design limitations less painful.
 
+                 Raul and Javi, Scala advocates and part of the 47 Degrees team, an official Typesafe Consulting Partner, will guide us through the most common Android development pitfalls and how Scala can help us overcome most of the common hurdles of Android Development."
+   subtype: Desarrollo
+   speakers: [14,15]
+   language: es
+   complexity: "Intermediate"
+-
+   id: 010
+   title: ""
+   description: ""
+   subtype: Diseño
+   speakers: [9]
+   language: es
+   complexity: "Intermediate"
+-
+   id: 011
+   title: "The Secrets to App Success on Google Play"
+   description: "A guide to useful features, tips, and best practices that will help you grow a successful app business on Google Play.
+                 Readability: The guide is most easily read in the Google Play Books app with your device in landscape orientation and the single-page view enabled in the settings.
+                 Publishing your app on Google Play is a good start to reaching users but is only the first step if you want to grow a thriving, sustainable app business. That’s why we've written a guide, called “The Secrets to App Success on Google Play”, a detailed playbook on the best practices and tools you can use to maximize the reach, retention, and revenue of your new app.
+                 Thanks for the feedback about the format. We'll take that into account for future editions"
+   subtype: Desarrollo
+   speakers: [16]
+   language: es
+   complexity: "Beguinner"
+-
+   id: 012
+   title: "La tipografía. La medida de todo"
+   description: "La tipografía no sólo es una decisión de diseño, sino también un módulo mínimo de construcción para nuestro interfaz que nos permitirá salir todos los días a nuestra hora y, lo más importante, mejorará nuestra relación con el front-end ;)."
+   subtype: Diseño
+   speakers: [7]
+   language: es
+   complexity: "Intermediate"
+-
+   id: 013
+   title: "'Materializing' Wunderlist for Android"
+   description: "Google, al fin, tiene unas guías de diseño para diseñadores y desarrolladores, Yayy!!. Pero... ¿debemos seguir estas guías al 100%? ¿Queremos que todas nuestras apps parezcan iguales? En esta sesión se explicará como se han aplicado las guías de Material Design a Wunderlist, la app de productividad con mas de 10 millones de usuarios, galardonada como una de las mejores de 2014 en Google Play."
+   subtype: Desarrollo
+   speakers: [0]
+   language: es
+   complexity: "Intermediate"
+-
+   id: 014
+   title: "Animación de interfaces: primeros pasos y prototipado"
+   description: "Animar elementos de tu nueva interfaz, y darles sentido para mejorar la experiencia de usuario, es un valor que da mucha fuerza en la batalla de las stores.
+                 Aprende en estos minutos los primeros pasos para abordar esta tarea, y mostrar exactamente la app que imaginas, a los miembros de tu equipo."
+   subtype: Diseño
+   speakers: [11]
+   language: es
+   complexity: "Intermediate"
+
+-
+   id: 015
+   title: "Materializa tu App"
+   description: "Cómo poner en práctica el Material Design en Android con las herramientas que tenemos disponibles en el SDK y la Support Library, así como algunos consejos para hacer que nuestras apps exploten al máximo la experiencia Material"
+   subtype: Desarrollo
+   speakers: [8]
+   language: es
+   complexity: "Intermediate"
+
+-
+   id: 016
+   title: "Crear assets y no morir en el intento"
+   description: ""
+   subtype: Diseño
+   speakers: [4]
+   language: es
+   complexity: "Intermediate"
+
+-
+   id: 017
+   title: "Diseñando Webs a lo Material Design con Polymer"
+   description: "Gracias a Polymer, se pueden diseñar frontales webs, basados en Componentes Web, manejando de una forma rápida y eficaz, elementos que permiten incorporar la filosofía de diseño de Material Design sobre la Web. Ha llegado el momento volver a diseñar como interactuar con una nueva Web."
+   subtype: Desarrollo
+   speakers: [19,18,17]
+   language: es
+   complexity: "Intermediate"
+
+-
+   id: 018
+   title: ""
+   description: ""
+   subtype: Diseño
+   speakers: [3]
+   language: es
+   complexity: "Intermediate"
+
+-
+   id: 019
+   title: "Os decimos hasta luego porque vernos, ¡nos vemos después!"
+
+
+-
+   id: 020
+   title: "Work Hard, PARTY Hard"
+   description: "Os esperamos en la Sala Supersonic, donde vamos a disfrutar de barriles de cerveza pinchadas con amor y además nos acompañará una grupo para deleitarnos con su confort. Musik Komite"
+
+
+-
+   id: 100
+   title: "Cafelito p'al cuerpo"
+-
+   id: 200
+   title: "Habrá que comer ¿no?"
