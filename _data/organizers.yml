@@ -7,7 +7,10 @@
 -
   group: "Nos ayudan en esta aventura"
   elements:
-
+    - {name: "Eascuela de Artes de Jerez", description: "Escuela de Artes de Jerez", link: "http://web.escueladeartedejerez.es/", imageUrl: "escuela-jerez.svg"}
+    - {name: "Colphon", description: "Colphon Cádiz", link: "http://www.colophon.es/", imageUrl: "colophon.svg"}
+    - {name: "AAD Andalucia", description: "Colphon Cádiz", link: "http://aad-andalucia.org/", imageUrl: "Logo-AAD.svg"}
+    - {name: "Difusión gráfica", description: "Difusión gráfica", link: "http://difusiongrafica.com", imageUrl: "difusion-grafica.svg"}
     - {name: "GDG Sevilla", description: "GDG Sevilla - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdgSevilla.png"}
     - {name: "AndroidSevilla", description: "Grupo de Sevillanos unidos por varias pasiones, la programación, Android y la luz de esta tierra. Escribenos a android.sevilla@googlegroups.com", link: "https://twitter.com/androidsevilla", imageUrl: "AndroidSevilla.png"}
     - {name: "GDG Cordoba", description: "GDG Cordoba - Open and volunteer geek community", link: "http://cordoba.gdgdevfest.com/", imageUrl: "gdgCordoba.png"}

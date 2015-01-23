@@ -1,13 +1,17 @@
 - 
-  group: "Patrocinadores"
+  group: "Patrocinadores Oro"
   elements: 
-    - {name: "Google", description: "Google", link: "http://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "GDG Cádiz", description: "GDG Cádiz", link: "https://plus.google.com/112866714526515716260/videos", imageUrl: "logo-gdgCadiz.png"}
     - {name: "47 Degrees", description: "47 Degrees", link: "http://www.47deg.com", imageUrl: "47degrees.png"}
     - {name: "THE BIG HOUSE", description: "THE BIG HOUSE", link: "http://www.thebighouse.io", imageUrl: "bighouse.svg"}
     - {name: "Catedra de Emprendedores de la Universidad de Cádiz", description: "Catedra de Emprendedores de la Universidad de Cádiz", link: "http://www.uca.es/emprendedores/", imageUrl: "Catedra.jpg"}
     - {name: "Universidad de Cádiz", description: "Universidad de Cádiz", link: "http://www.uca.es", imageUrl: "Uca.png"}
     - {name: "Universidad de Cádiz", description: "Universidad de Cádiz", link: "http://www.uca.es", imageUrl: "extenda.png"}
 -
+  group: "Patrocinadores Plata"
+  elements: 
+    - {name: "Bitnami", description: "Bitnami", link: "http://www.bitnami.com", imageUrl: "bitnami.svg"}
+
 #  group: "With support of"
 #  elements:
 #    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
