@@ -142,6 +142,8 @@ ticketsOffers:
   validFrom: "2014-12-22T08:00"
   validThrough: "2015-01-15T23:59"
 #  disabled: true
+  soldOut: true
+  soldOutText: "Sold Out"
  -
   name: "Ultima oportunidad"
   price: "15"
@@ -154,7 +156,7 @@ ticketsOffers:
   additionalInfo: "Sólo en la última semana del evento"
   validFrom: "2015-01-15T23:59"
   validThrough: "2015-01-30T23:59"
-  disabled: true
+#  disabled: true
  -
   name: "Estudiante"
   price: "10"
